@@ -76,10 +76,7 @@ Open a web browser and go to `http://localhost:8000` to launch the pose estimati
 
 ## Screenshots
 
-<img width="1728" alt="Screenshot 2024-09-15 at 11 05 32" src="https://github.com/user-attachments/assets/d4a17368-5ba9-476a-b22b-9570aec71afd"> <br>
-
-
-
+<img width="1728" alt="Screenshot 2024-09-15 at 11 05 32" src="https://github.com/user-attachments/assets/d4a17368-5ba9-476a-b22b-9570aec71afd"> <br> <br>
 
 <img width="1728" alt="CV03" src="https://github.com/user-attachments/assets/b9486544-b603-4147-ba6f-149e9faadfce">
 
